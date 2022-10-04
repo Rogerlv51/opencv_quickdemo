@@ -1,4 +1,4 @@
-#include <quickopencv.h>
+#include "quickopencv.h"
 #include <iostream>
 
 using namespace cv;

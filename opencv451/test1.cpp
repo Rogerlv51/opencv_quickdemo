@@ -1,6 +1,6 @@
 #include <opencv2/opencv.hpp>
 #include <iostream>
-#include <quickopencv.h>
+#include "Resources/quickopencv.h"
 
 
 using namespace std;
